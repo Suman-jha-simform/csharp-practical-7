@@ -1,0 +1,15 @@
+C:\Users\suman\Desktop\internship\CSHARP\Practical 7\Practical DIP\DIP\DIP\bin\Debug\net6.0\DIP.exe
+C:\Users\suman\Desktop\internship\CSHARP\Practical 7\Practical DIP\DIP\DIP\bin\Debug\net6.0\DIP.deps.json
+C:\Users\suman\Desktop\internship\CSHARP\Practical 7\Practical DIP\DIP\DIP\bin\Debug\net6.0\DIP.runtimeconfig.json
+C:\Users\suman\Desktop\internship\CSHARP\Practical 7\Practical DIP\DIP\DIP\bin\Debug\net6.0\DIP.dll
+C:\Users\suman\Desktop\internship\CSHARP\Practical 7\Practical DIP\DIP\DIP\bin\Debug\net6.0\DIP.pdb
+C:\Users\suman\Desktop\internship\CSHARP\Practical 7\Practical DIP\DIP\DIP\obj\Debug\net6.0\DIP.csproj.AssemblyReference.cache
+C:\Users\suman\Desktop\internship\CSHARP\Practical 7\Practical DIP\DIP\DIP\obj\Debug\net6.0\DIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suman\Desktop\internship\CSHARP\Practical 7\Practical DIP\DIP\DIP\obj\Debug\net6.0\DIP.AssemblyInfoInputs.cache
+C:\Users\suman\Desktop\internship\CSHARP\Practical 7\Practical DIP\DIP\DIP\obj\Debug\net6.0\DIP.AssemblyInfo.cs
+C:\Users\suman\Desktop\internship\CSHARP\Practical 7\Practical DIP\DIP\DIP\obj\Debug\net6.0\DIP.csproj.CoreCompileInputs.cache
+C:\Users\suman\Desktop\internship\CSHARP\Practical 7\Practical DIP\DIP\DIP\obj\Debug\net6.0\DIP.dll
+C:\Users\suman\Desktop\internship\CSHARP\Practical 7\Practical DIP\DIP\DIP\obj\Debug\net6.0\refint\DIP.dll
+C:\Users\suman\Desktop\internship\CSHARP\Practical 7\Practical DIP\DIP\DIP\obj\Debug\net6.0\DIP.pdb
+C:\Users\suman\Desktop\internship\CSHARP\Practical 7\Practical DIP\DIP\DIP\obj\Debug\net6.0\DIP.genruntimeconfig.cache
+C:\Users\suman\Desktop\internship\CSHARP\Practical 7\Practical DIP\DIP\DIP\obj\Debug\net6.0\ref\DIP.dll
